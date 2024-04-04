@@ -1,0 +1,40 @@
+.melon-image {
+    width: 300px;
+    height: 300px;
+}
+
+#melon-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: large;
+}
+
+#melon-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(187, 187, 187);
+}
+
+#form {
+    font-size: large;
+    padding: 20px;
+    background-color: rgb(228, 214, 193);
+    width: 750px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+
+#sign-in {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
